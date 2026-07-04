@@ -20,5 +20,5 @@ The security MSc has changed how I write code. Having spent years building produ
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanjib%20Rubyat-blue)](https://www.linkedin.com/in/tanjibrubyat-440915115/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanjib%20Rubyat-blue)](https://www.linkedin.com/in/tanjib-rubyat-440915115)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/16139078/tanjib-rubyat)
