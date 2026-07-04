@@ -17,7 +17,7 @@ The security MSc has changed how I write code. Having spent years building produ
 
 - MSc Computer Networking & Cybersecurity (graduating January 2027)
 - Penetration testing placement at London Metropolitan University's Charity & Social Enterprise Clinic
-- Building: [email-marketing-app](https://github.com/TanjibRubyat/email-marketing-app) — a full-stack email marketing platform
+- Building: [email-marketing-app](https://github.com/TanjibRubyat/email-marketing-app) , a full-stack email marketing platform
 
 ## Connect
 
