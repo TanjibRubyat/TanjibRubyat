@@ -8,7 +8,6 @@ The security MSc has changed how I write code. Having spent years building produ
 
 **Backend:** PHP, Laravel, Node.js, Express.js, RESTful API design  
 **Frontend:** Vue.js, React.js
-
 **Database:** MySQL  
 **Infrastructure:** Docker, Nginx, DigitalOcean, Linux  
 **Security:** OWASP Top 10, Vulnerability Assessment, WordPress Security Testing, SAST/DAST  
